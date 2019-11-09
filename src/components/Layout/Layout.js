@@ -1,14 +1,15 @@
 import React from "react";
-import { styles } from "./Layout.modules.scss";
+import "./Layout.scss";
+import Header from "../Header/Header";
 
 const Layout = () => {
   return (
-    <div className={styles.layout}>
+    <div>
       <Header />
-      <Hero />
+      {/* <Hero />
       <JobCarousel />
       <Feature />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 };
