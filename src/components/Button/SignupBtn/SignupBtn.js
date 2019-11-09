@@ -2,7 +2,7 @@ import React from "react";
 import "./SignupBtn.scss";
 
 const SignupBtn = () => {
-  return <button>Sign Up</button>;
+  return <button className="signup-btn">Sign Up</button>;
 };
 
 export default SignupBtn;

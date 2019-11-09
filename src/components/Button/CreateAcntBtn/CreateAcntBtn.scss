@@ -1,9 +1,9 @@
-button {
+.createAcnt-btn {
   float: right;
-  margin: 0.8rem 4rem 0rem 1.5rem;
+  margin: 1.7rem 4.5rem 0rem 1.5rem;
   text-decoration: none;
   font-size: 16px;
-  color: #000000;
+  color: #fffefe;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.29);
   letter-spacing: 3px;
   font-family: "open sans";
@@ -14,19 +14,28 @@ button {
   width: 20rem;
   height: 4.5rem;
   -webkit-font-smoothing: antialiased;
-  border: 2px solid #000000;
-  background: none;
+  background-image: linear-gradient(-7deg, #6bc5d4 0%, #0f78ba 75%);
+  border: 0px;
+  border-radius: 3px;
 }
-button:hover {
+.createAcnt-btn:hover {
   box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.22),
     0 10px 13px 0px rgba(0, 0, 0, 0.34);
   backface-visibility: hidden;
   color: #ffffff;
-  background: #000000;
+  background: #0f78ba;
+  border: 0px;
+  border-radius: 3px;
 }
-button:active {
+
+.createAcnt-btn:focus {
+  outline: 0;
+}
+.createAcnt-btn:active {
   box-shadow: 0 4px 6px 3px rgba(0, 0, 0, 0.2),
     0 4px 6px 0px rgba(0, 0, 0, 0.54);
   transform: translate(0px, 0px);
   backface-visibility: hidden;
+  border: 0px;
+  border-radius: 3px;
 }

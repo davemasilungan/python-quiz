@@ -10,7 +10,7 @@ const Header = () => {
       <div className="header-limiter">
         <img className="logo" src={logo} alt="talentize logo" />
         <SignupBtn className="signup_button">
-          <Link to="/">Sidddgnup</Link>
+          <Link to="/"></Link>
         </SignupBtn>
       </div>
     </header>
