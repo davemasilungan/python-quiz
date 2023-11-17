@@ -2,7 +2,7 @@
 
 ## Code a Fill-in-the-Blanks Quiz
 
-Create a fill-in-the-blanks quiz. Your quiz will prompt a user with a sentence containing several blanks. The user should then be asked to fill in each blank appropriately to complete the sentence.   
+This quiz will prompt a user with a sentence containing several blanks. The user should then be asked to fill in each blank appropriately to complete the sentence.   
 
 ## Success Criteria	
 Game Basics: Game has 3 or more levels and each level contains 4 or more blanks to fill in.  
