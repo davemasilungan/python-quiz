@@ -1,5 +1,5 @@
 <a href="https://onlinegdb.com/FI7z0QAUtl" target="_blank" rel="noreferrer noopener">
-  <img src="https://github.com/dhipflip/python-quiz/blob/master/python-quiz.png" alt="Python Quiz Image"">
+  <img src="https://github.com/davemasilungan/python-quiz/blob/master/python-quiz.png?raw=true" alt="Python Quiz Image"">
 </a>
 :sparkles: Click Img above to run code.
 
