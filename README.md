@@ -1,4 +1,4 @@
-[![Header](https://github.com/davemasilungan/python-quiz/blob/main/python-quiz.png?raw=true "Header")](https://onlinegdb.com/FI7z0QAUtl)
+[![Header](https://github.com/davemasilungan/python-quiz/blob/python-quiz.png?raw=true "Header")](https://onlinegdb.com/FI7z0QAUtl)
 :sparkles: Click Img above to run code.
 
 
