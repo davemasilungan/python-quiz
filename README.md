@@ -1,8 +1,8 @@
-<a href="https://onlinegdb.com/FI7z0QAUtl" target="_blank" rel="noreferrer noopener">
+<a href="https://onlinegdb.com/lwwLK_Rh3" target="_blank" rel="noreferrer noopener">
   <img src="https://github.com/davemasilungan/python-quiz/blob/master/python-quiz.png?raw=true" alt="Python Quiz Image"">
 </a>  
 
-Click Img to launch code in Interpreter and click 'Run'.  
+Click Img to launch Interpreter and click 'Run'.  
 
 # :sparkles: Udacity Project  
 
