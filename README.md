@@ -1,8 +1,10 @@
-[![Header](https://github.com/davemasilungan/python-quiz/blob/python-quiz.png?raw=true "Header")](https://onlinegdb.com/FI7z0QAUtl)
-:sparkles: Click Img above to run code.
+<a href="https://onlinegdb.com/FI7z0QAUtl" target="_blank" rel="noreferrer noopener">
+  <img src="https://github.com/davemasilungan/python-quiz/blob/master/python-quiz.png?raw=true" alt="Python Quiz Image"">
+</a>  
 
+Click Img to launch code in Interpreter and click 'Run'.  
 
-# Udacity Project
+# :sparkles: Udacity Project  
 
 ## Code a Fill-in-the-Blanks Quiz
 
