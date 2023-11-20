@@ -1,10 +1,10 @@
 <a href="https://onlinegdb.com/FI7z0QAUtl" target="_blank" rel="noreferrer noopener">
   <img src="https://github.com/davemasilungan/python-quiz/blob/master/python-quiz.png?raw=true" alt="Python Quiz Image"">
 </a>  
-Click Img above to run code.
 
+Click Img above to run code.  
 
-# :sparkles: Udacity Project
+# :sparkles: Udacity Project  
 
 ## Code a Fill-in-the-Blanks Quiz
 
