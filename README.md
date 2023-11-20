@@ -2,7 +2,7 @@
   <img src="https://github.com/davemasilungan/python-quiz/blob/master/python-quiz.png?raw=true" alt="Python Quiz Image"">
 </a>  
 
-Click Img above to run code.  
+Click Img to launch code in Interpreter and click 'Run'.  
 
 # :sparkles: Udacity Project  
 
